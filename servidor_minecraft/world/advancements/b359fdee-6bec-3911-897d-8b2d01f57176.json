@@ -1174,6 +1174,7 @@
       "beef": "2024-11-02 03:46:11 +0000",
       "porkchop": "2024-11-03 21:57:52 +0000",
       "apple": "2024-11-03 21:19:30 +0000",
+      "cooked_cod": "2024-11-29 18:38:01 +0000",
       "pumpkin_pie": "2024-11-28 22:08:36 +0000",
       "mutton": "2024-11-04 02:10:31 +0000",
       "bread": "2024-11-02 02:47:11 +0000",
@@ -8115,6 +8116,7 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2024-11-12 02:46:01 +0000",
+      "charm_collector_0": "2024-11-29 20:26:03 +0000",
       "charm_collector_3": "2024-11-12 02:46:18 +0000"
     },
     "done": false
@@ -10438,7 +10440,9 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "librarian": "2024-11-28 16:18:26 +0000"
+      "fletcher": "2024-11-29 20:23:12 +0000",
+      "librarian": "2024-11-28 16:18:26 +0000",
+      "weaponsmith": "2024-11-29 19:21:16 +0000"
     },
     "done": false
   },
@@ -10873,6 +10877,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_birch": "2024-11-29 19:16:06 +0000",
       "in_outpost_nether_brick": "2024-11-28 21:26:20 +0000"
     },
     "done": false
@@ -11006,7 +11011,8 @@
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_birch": "2024-11-28 22:59:48 +0000",
-      "in_village_swamp": "2024-11-28 23:25:30 +0000"
+      "in_village_swamp": "2024-11-28 23:25:30 +0000",
+      "in_village_ocean": "2024-11-29 18:36:05 +0000"
     },
     "done": false
   },
@@ -11102,9 +11108,118 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2024-11-29 00:18:18 +0000"
+      "not_target": "2024-11-29 20:33:20 +0000"
     },
     "done": false
+  },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2024-11-29 18:49:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2024-11-29 19:21:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-11-29 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-11-29 18:24:48 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_ocean": "2024-11-29 18:41:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-11-29 18:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-11-29 18:43:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2024-11-29 18:57:47 +0000",
+      "hive_wall": "2024-11-29 18:57:43 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2024-11-29 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow_end": {
+    "criteria": {
+      "gobber2_bow_end": "2024-11-29 20:24:59 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-11-29 19:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-29 19:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-11-29 18:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-11-29 18:43:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-11-29 18:53:57 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_life_renren": "2024-11-29 20:24:07 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-11-29 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-29 19:01:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
